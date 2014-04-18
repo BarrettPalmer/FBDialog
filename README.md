@@ -3,6 +3,8 @@ FBDialog
 
 jQuery Facebook Dialog Plugin
 
+View the [Demo](http://www.rrpowered.com/demo/FBDialog/)
+
 Usage
 -----
 
@@ -72,3 +74,4 @@ $(document).on("click", "#fbclose", function() {
     $("#your-element-id").fbdialog({close: true});
 });
 ```
+[Demo](http://www.rrpowered.com/demo/FBDialog/)
