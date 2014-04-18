@@ -60,7 +60,7 @@ $(".div").fbdialog({
 Closing the dialog
 -----
 You can use a `id` or `class` for the element selector. Example below:
-```JAVASCRIPT 
+```HTML
 <a href="#" id="fbclose">Close this dialog</a>
 ```
 Use the code below to close the dialog with a class or id. The plugin uses jQuery’s `on` method instead of `click` method because the id or class used on the link for closing of the dialog are added after the `DOM` has loaded.
