@@ -74,4 +74,3 @@ $(document).on("click", "#fbclose", function() {
     $("#your-element-id").fbdialog({close: true});
 });
 ```
-[Demo](http://www.rrpowered.com/demo/FBDialog/)
