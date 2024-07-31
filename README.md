@@ -3,8 +3,6 @@ FBDialog
 
 jQuery Facebook Dialog Plugin
 
-View the [Demo](http://www.rrpowered.com/demo/FBDialog/)
-
 Usage
 -----
 
